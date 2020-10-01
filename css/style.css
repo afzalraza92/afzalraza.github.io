@@ -16,6 +16,8 @@ section {
     border: 1px solid black;
     background-color: #619EE7;
     margin: 10px;
+    color:green;
+/*      Adding color green to the section part to make it look nicer.*/
 }
 
 section>h2 {
